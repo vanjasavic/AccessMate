@@ -8,21 +8,17 @@ AccessMate je JavaScript plugin za poboljšanje pristupačnosti web stranica. Om
 - Promjena debljine fonta
 - Podešavanje razmaka između slova
 - Prilagodba proreda teksta
-- Promjena boje pozadine (bijela, crna, žuta)
+- Promjena boje pozadine (bijela, crna, žuta, plava)
 - Naglašavanje linkova
 
 ## Instalacija
 
-1. Kopirajte HTML, CSS i JavaScript kod iz `accessibility-plugin.html` datoteke u vašu web stranicu.
-2. Uvjerite se da imate [UIkit](https://getuikit.com/) framework uključen u vašu stranicu, jer plugin koristi neke UIkit klase.
+1. Preuzmite datoteku AccessMate.js.
+2. Dodajte sljedeći <script> tag u vašu HTML datoteku: <script src="path/to/AccessMate.js"></script>
 
 ## Korištenje
 
 Nakon instalacije, plugin će automatski dodati gumb "Prilagodba pristupačnosti" u donji desni kut vaše stranice. Klikom na ovaj gumb otvara se panel s kontrolama za prilagodbu.
-
-## Prilagodba
-
-Možete prilagoditi izgled i ponašanje plugina mijenjajući CSS u `<style>` odjeljku i JavaScript u `<script>` odjeljku.
 
 ## Licenca
 
