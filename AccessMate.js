@@ -62,7 +62,7 @@
     // HTML Structure
     const html = `
         <div id="accessibility-wrapper">
-            <button id="accessibility-toggle"><img class="logo" src="logo.png"></button>
+            <button id="accessibility-toggle"><img class="logo" src="https://raw.githubusercontent.com/vanjasavic/AccessMate/main/logo.png"></button>
             <div id="accessibility-panel" hidden>
                 <h4>Prilagodba pristupačnosti</h4>
                 <div class="control">
