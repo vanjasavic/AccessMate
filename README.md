@@ -1,4 +1,4 @@
-# AccessMate
+# AccessMate 2.0
 
 AccessMate je JavaScript plugin za poboljšanje pristupačnosti web stranica. Omogućuje korisnicima da prilagode vizualni prikaz stranice prema svojim potrebama, čineći sadržaj pristupačnijim i čitljivijim.
 
